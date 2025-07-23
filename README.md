@@ -1,4 +1,4 @@
-# 🎯 Mall Customer Segmentation Analysis  
+# 🎯 Mall Customer Segmentation  
 **K-Means Clustering for Targeted Marketing**  
 
 ---
